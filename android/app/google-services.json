@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872151276609",
+    "project_id": "flutter-muzik-app-tutorial",
+    "storage_bucket": "flutter-muzik-app-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872151276609:android:32b9ab28c146d3ea637ac0",
+        "android_client_info": {
+          "package_name": "id.net.bengkelrobot.flutter_muzik_app_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872151276609-pdilhukvbij89jgenb2s1vngrogliuib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54wOsm2N-BVwjSt40Xz5od97Tyy5BMmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872151276609-pdilhukvbij89jgenb2s1vngrogliuib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
